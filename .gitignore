@@ -1,0 +1,19 @@
+.DS_Store
+*.pt
+*.pptx
+note.txt
+
+# DL_Lab2
+DL_Lab2/saved_models
+compare_submission.py
+*csv
+plot.py
+plot2.py
+
+# DL_Lab5
+demo.md
+
+# DL_Lab6
+DL_Lab6/images
+ddpm.pth
+gan.pth
